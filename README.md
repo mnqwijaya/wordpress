@@ -1,3 +1,3 @@
 #wordpress
 Ini adalah code repository wordpress Nur Qomari
-versi1
+menjadi versi ke-2
